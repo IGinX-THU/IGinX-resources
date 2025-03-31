@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:82b491ae7c28bc427cf29066ed3870c7fcc5d4ef0139c54c8d7bf649c7187eec
-size 190
+# JDK 二进制文件安装包
+
+这个目录备份了 Eclipse Temurin 提供 JDK 安装包，更多安装包可以从原始位置进行下载：
+
+https://adoptium.net/temurin/releases/
